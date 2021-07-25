@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'huyan00',
+  title: 'huyan00 blog',
   author: 'huyan00',
   email: 'wuyan19981@gmail.com',
   link: 'https://huyan00.vercel.app',
-  description: 'Personal website.',
-  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP']
+  description: 'To much to say.',
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP'],
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
