@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'huyan00',
+  title: 'huyan00 blog',
   author: 'huyan00',
   email: 'wuyan19981@gmail.com',
   link: 'https://huyan00.vercel.app',
-  description: 'This gonna be an awesome website.',
+  description: 'To much to say.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -13,9 +13,9 @@ const BLOG = {
   since: 2021, // If leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
-  showAbout: true,
-  showArchive: true,
-  autoCollapsedNavBar: false, // The automatically collapsed navigation bar
+  showAbout: true, // WIP
+  showArchive: true, // WIP
+  autoCollapsedNavBar: false, // the automatically collapsed navigation bar
   socialLink: 'https://twitter.com/huyan00',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
